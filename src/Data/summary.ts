@@ -1,7 +1,7 @@
 const SummaryData = [
-  ["I have 10 years of experience working as a Software Engineer."],
+  ["I have over 10 years of experience working as a Software Engineer."],
   [
-    "I am a polyglot and have worked with a wide range of programming languages and frameworks.",
+    "I am a polyglot and have worked with a wide range of programming languages, tools and frameworks.",
     "This includes C++, Python, NodeJS, Golang etc. on server-side / back-end and HTML, CSS, JavaScript, ES6+, Typescript, React, Knockout, D3 etc. on client-side / front-end."
   ],
   [

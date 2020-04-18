@@ -89,20 +89,20 @@ sinceOptions.push({
   label: `I want history of past year (${year})`
 });
 
-sinceOptions.push({
-  value: `${year - 3}`,
-  label: `I want history of past three years (${year - 3}-${year})`
-});
+// sinceOptions.push({
+//   value: `${year - 3}`,
+//   label: `I want history of past three years (${year - 3}-${year})`
+// });
 
 sinceOptions.push({
   value: `${year - 5}`,
   label: `I want history of past five years (${year - 5}-${year})`
 });
 
-sinceOptions.push({
-  value: `${year - 10}`,
-  label: `I want history of past ten years (${year - 10}-${year})`
-});
+// sinceOptions.push({
+//   value: `${year - 10}`,
+//   label: `I want history of past ten years (${year - 10}-${year})`
+// });
 
 sinceOptions.push({
   value: `${year - 1000}`,

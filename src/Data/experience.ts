@@ -1,7 +1,59 @@
 const ExperienceData = [
   {
+    start: "2019-06",
+    finish: "PRESENT",
+    position: "Software Engineering Lead",
+    company:
+      "RDCCO Pty. Ltd. / Permaconn",
+    projects: [
+      {
+        role: "Engineering Lead",
+        name: "Permaconn CRM Systems",
+        start: "2019-06",
+        finish: "PRESENT",
+        description:
+          "Permaconn manufacture and manage IoT devices for high security high availability alarm system communication. The CRM team is a small engineering team responsible for fleet automation (SIMs, external integrations etc), CRM, billing, website, customer facing apps and other staff systems.",
+        achievements: [
+          "I transitioned into serving as the technical lead of the design, development, testing and operations of this team.",
+          "I set up an efficient and ad-hoc agile process fit for team members experience and my service leadership style. I helped promote a culture of ownership, excellence and openness.",
+          "I developed, helped develop and facilitated the development of many new products and services in collaboration the team, with internal teams and external partners.",
+          "I introduced continuous integration and automated testing to the team. There were no automated tests prior to my arrival.",
+          "I introduced modern DevOps tools and practices to the team. This includes zero downtime deployments, monitoring tools, containerisation, orchastration tools etc.",
+          "I transitioned a large monolithic legacy system developed over many years to high availability microservices architecture."
+        ],
+        technology: [
+          "High Scalability",
+          "AWS",
+          "High Security",
+          "Monolithic architecture",
+          "Microservices architecture",
+          "TypeScript",
+          "JavaScript",
+          "NodeJS",
+          "React",
+          "REST API Design",
+          "RPC API Design",
+          "DevOps",
+          "Docker",
+          "Docker Swarm", 
+          "Ademco Contact ID",
+          "Alarm Systems",
+          "Cost Optimisation"
+        ],
+        soft: [
+          "Leadership",
+          "Requirements Engineering",
+          "Technical Documentation",
+          "Recruitment",
+          "Mentoring",
+          "Prioritisation"
+        ],
+      }
+    ]
+  },
+  {
     start: "2016-07",
-    finish: "Present",
+    finish: "2019-06",
     position: "Senior Software Engineer",
     company:
       "Commonwealth Scientific and Industrial Research Organisation (CSIRO) - Data61",
