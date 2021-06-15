@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2566520.chunk.css",
+    "main.js": "/static/js/main.22545fc1.chunk.js",
+    "main.js.map": "/static/js/main.22545fc1.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.3a458e5b.chunk.js": "/static/js/2.3a458e5b.chunk.js",
+    "static/js/2.3a458e5b.chunk.js.map": "/static/js/2.3a458e5b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ec77c1eb8b69b3dd119f9a6eb922129.js": "/precache-manifest.3ec77c1eb8b69b3dd119f9a6eb922129.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d2566520.chunk.css.map": "/static/css/main.d2566520.chunk.css.map",
+    "static/media/automap-1.png": "/static/media/automap-1.de445fea.png",
+    "static/media/automap-2.png": "/static/media/automap-2.1b04fe9d.png",
+    "static/media/ftaa-1.png": "/static/media/ftaa-1.e381555d.png",
+    "static/media/ftaa-2.png": "/static/media/ftaa-2.b798b94c.png",
+    "static/media/ftaa-3.png": "/static/media/ftaa-3.cf34b77e.png",
+    "static/media/groundwater-1.png": "/static/media/groundwater-1.221c040d.png",
+    "static/media/groundwater-2.png": "/static/media/groundwater-2.38ddadd1.png",
+    "static/media/magda-1.png": "/static/media/magda-1.3b4ebda8.png",
+    "static/media/magda-2.png": "/static/media/magda-2.19957093.png",
+    "static/media/okai-1.jpg": "/static/media/okai-1.9fe965db.jpg",
+    "static/media/okai-2.png": "/static/media/okai-2.1ed3f47c.png",
+    "static/media/tm-1.jpg": "/static/media/tm-1.342be1b3.jpg",
+    "static/media/tm-2.jpg": "/static/media/tm-2.f9d3de72.jpg"
+  }
+}
