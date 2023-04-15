@@ -1,9 +1,35 @@
-console.log(require("./images/ftaa-1.png"));
-
 const ExperienceData = [
   {
-    start: "2019-06",
+    start: "2022-09",
     finish: "PRESENT",
+    position: "Software Engineering Lead",
+    company: "Scentre Group Ltd.",
+    projects: [
+      {
+        role: "Software Engineering Lead",
+        name: "Westfield membership",
+        start: "2022-09",
+        finish: "PRESENT",
+        description:
+          "Scentre Group owns and operates Westfield shopping centres in Australia and New Zealand.",
+        achievements: [
+        ],
+        technology: [
+          "GraphQL",
+          "Software Architecture",
+        ],
+        soft: [
+          "Alignment",
+          "Leadership",
+          "Software Architecture",
+          "Technical Documentation",
+        ],
+      },
+    ],
+  },
+  {
+    start: "2019-06",
+    finish: "2022-09",
     position: "Software Engineering Lead",
     company: "RDCCO Pty. Ltd. / Permaconn",
     projects: [
@@ -11,7 +37,7 @@ const ExperienceData = [
         role: "Software Engineering Lead",
         name: "Permaconn Engineering/Product Team",
         start: "2019-06",
-        finish: "PRESENT",
+        finish: "2022-09",
         description:
           "Permaconn manufacture and manage IoT devices for high security high availability alarm system communication. The Software team is a small engineering team (4-6) responsible for its enterprise software services - fleet automation, CRM, billing, website, customer facing apps and other ERP systems.",
         achievements: [
