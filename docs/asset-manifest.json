@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5363aebc.css",
-    "main.js": "/static/js/main.6ce44cd9.js",
+    "main.js": "/static/js/main.c9fdb645.js",
     "static/media/magda-1.png": "/static/media/magda-1.cab1f96a4086d2108e73.png",
     "static/media/groundwater-1.png": "/static/media/groundwater-1.029a354139c139b9447e.png",
     "static/media/ftaa-2.png": "/static/media/ftaa-2.6956e2d68fd67d76dee7.png",
@@ -17,10 +17,10 @@
     "static/media/okai-2.png": "/static/media/okai-2.98f7355215f2a9566db6.png",
     "index.html": "/index.html",
     "main.5363aebc.css.map": "/static/css/main.5363aebc.css.map",
-    "main.6ce44cd9.js.map": "/static/js/main.6ce44cd9.js.map"
+    "main.c9fdb645.js.map": "/static/js/main.c9fdb645.js.map"
   },
   "entrypoints": [
     "static/css/main.5363aebc.css",
-    "static/js/main.6ce44cd9.js"
+    "static/js/main.c9fdb645.js"
   ]
 }

@@ -28,7 +28,7 @@ const SummaryData = [
     "I enjoy contributing towards my team's growth through coaching, mentoring and supporting.",
   ],
   [
-    "I want to be an instrumental part of helping business grow by bridging gap with stakeholders, solve the right problems the right way and empower my high performance team towards greater impact while applying myself as a hands on leader in tech.",
+    "I want to be an instrumental part of helping business grow by bridging gap with stakeholders, solve the right problems the right way and empower my high performance team towards greater impact while applying myself as a leader in tech.",
   ],
 ];
 
