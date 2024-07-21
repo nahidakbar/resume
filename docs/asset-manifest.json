@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5363aebc.css",
+    "main.js": "/static/js/main.fef63bc1.js",
+    "static/media/magda-1.png": "/static/media/magda-1.cab1f96a4086d2108e73.png",
+    "static/media/groundwater-1.png": "/static/media/groundwater-1.029a354139c139b9447e.png",
+    "static/media/ftaa-2.png": "/static/media/ftaa-2.6956e2d68fd67d76dee7.png",
+    "static/media/groundwater-2.png": "/static/media/groundwater-2.7964d6b5e37b32fca26f.png",
+    "static/media/automap-2.png": "/static/media/automap-2.65186359e3ff9fb2292c.png",
+    "static/media/tm-1.jpg": "/static/media/tm-1.08e5da32f56720da874d.jpg",
+    "static/media/tm-2.jpg": "/static/media/tm-2.44cac1f4da1af8b7e1a8.jpg",
+    "static/media/ftaa-1.png": "/static/media/ftaa-1.bb28b92f38212fc58f46.png",
+    "static/media/automap-1.png": "/static/media/automap-1.9a926b42dbeed29d349b.png",
+    "static/media/ftaa-3.png": "/static/media/ftaa-3.8b97ae4642090379a6cf.png",
+    "static/media/magda-2.png": "/static/media/magda-2.5150527050f42ef8eafb.png",
+    "static/media/okai-1.jpg": "/static/media/okai-1.11e5f85ff4dc52507957.jpg",
+    "static/media/okai-2.png": "/static/media/okai-2.98f7355215f2a9566db6.png",
+    "index.html": "/index.html",
+    "main.5363aebc.css.map": "/static/css/main.5363aebc.css.map",
+    "main.fef63bc1.js.map": "/static/js/main.fef63bc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5363aebc.css",
+    "static/js/main.fef63bc1.js"
+  ]
+}
